@@ -1,7 +1,7 @@
 # 🚀 Github Explorer
 
 ## 🔖 Sobre
-<p>Essa aplicação pesquisa repositórios do github, usando a Api do github e os exibe em tela, ao clicar no repositório é levado a uma página com algumas informações, stars, forks, issues. Ao clicar em uma issue o usuário é levado a ela.</p>
+<p>Essa aplicação pesquisa repositórios do github, usando a Api do github, e os exibe em tela, ao clicar no repositório é levado a uma página com algumas informações, stars, forks, issues. Ao clicar em uma issue o usuário é levado a ela.</p>
 
 ## 📷 Screenshot:
 
